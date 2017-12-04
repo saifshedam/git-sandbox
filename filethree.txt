@@ -1,3 +1,6 @@
 new commit
 second commit for fetch
+<<<<<<< HEAD
 third commit is there for the conflict
+=======
+
