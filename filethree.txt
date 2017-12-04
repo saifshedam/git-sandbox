@@ -1,2 +1,3 @@
 new commit
 second commit for fetch
+third commit is there for the conflict
