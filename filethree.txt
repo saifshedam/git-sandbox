@@ -1,6 +1,5 @@
 new commit
 second commit for fetch
-<<<<<<< HEAD
 third commit is there for the conflict
-=======
+fourth commit to ammend demo
 
