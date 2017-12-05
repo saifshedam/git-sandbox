@@ -1,2 +1,4 @@
 this is fetch conflict change for demo purpose
 this change is for bugfix branch demo
+
+made changes to the bugfix branch
