@@ -1,2 +1,3 @@
 this is fetch conflict change for demo purpose
+I am in middle of feature and want to merge the bug fix changes
 
