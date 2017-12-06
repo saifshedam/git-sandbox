@@ -2,3 +2,4 @@ this is fetch conflict change for demo purpose
 I am in middle of feature and want to merge the bug fix changes
 this change is for bugfix branch demo
 made changes to the bugfix branch
+demo chnages for stash pull conflict
