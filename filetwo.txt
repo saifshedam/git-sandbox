@@ -4,3 +4,5 @@ this change is for bugfix branch demo
 made changes to the bugfix branch
 demo chnages for stash pull conflict
 stash pull demo
+adding changes to master branch for stash demo
+
