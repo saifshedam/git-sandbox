@@ -7,4 +7,4 @@ stash pull demo
 adding changes to master branch for stash demo
 adding changes for 3 way commit part 2
 adding changes for three way commit demo
-
+change two for rebase demo
