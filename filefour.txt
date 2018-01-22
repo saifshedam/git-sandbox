@@ -3,3 +3,5 @@ this is demo for merge conflict
 amend
 bugfix done
 stash changes to branch
+pop stash
+
