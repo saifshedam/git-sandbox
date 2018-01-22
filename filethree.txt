@@ -2,4 +2,9 @@ new commit
 second commit for fetch
 third commit is there for the conflict
 fourth commit to ammend demo
+<<<<<<< HEAD
 demo for fetch command
+=======
+commit for stash demo 2
+stash pop change demo
+>>>>>>> fb4d46d49f6577ca25975a98959d9df9e393490f
