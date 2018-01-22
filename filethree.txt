@@ -2,4 +2,4 @@ new commit
 second commit for fetch
 third commit is there for the conflict
 fourth commit to ammend demo
-
+demo for fetch command
