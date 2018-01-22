@@ -3,4 +3,5 @@ this is demo for merge conflict
 amend
 checkin code to mainbranch
 bugfix done
-
+add first change
+add second change
